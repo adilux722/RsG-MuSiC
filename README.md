@@ -1,2 +1,2 @@
-# RsG-MuSiC
+# RsG-MuSitter
 HII MY PREFIX IS S
